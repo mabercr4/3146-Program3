@@ -1,3 +1,6 @@
+//Matthew Abercrombie
+//ITCS 3146 Child-Parent Cooperation
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
